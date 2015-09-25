@@ -1,4 +1,4 @@
-package com.qylk.mp.bus.utils;
+package com.qylk.base.utils;
 
 public class HTTPUtils {
     public static boolean isUrl(String url) {

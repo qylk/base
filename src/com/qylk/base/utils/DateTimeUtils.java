@@ -1,4 +1,4 @@
-package com.qylk.mp.bus.utils;
+package com.qylk.base.utils;
 
 import android.content.Context;
 import android.text.format.DateUtils;

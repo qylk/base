@@ -1,4 +1,4 @@
-package com.qylk.mp.bus.notify;
+package com.qylk.base.notify;
 
 public class BaseNotify {
 

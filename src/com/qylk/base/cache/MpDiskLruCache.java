@@ -1,10 +1,7 @@
-package com.qylk.mp.bus.cache;
+package com.qylk.base.cache;
 
 import android.text.TextUtils;
-
 import com.jakewharton.disklrucache.DiskLruCache;
-import com.qylk.mp.bus.utils.HashUtils;
-
 import org.apache.commons.io.IOUtils;
 
 import java.io.File;
@@ -127,7 +124,7 @@ public final class MpDiskLruCache {
     }
 
     private static String hashKeyForDisk(String key) {
-        String cacheKey = HashUtils.MD5(key);
+        String cacheKey = com.qylk.base.utils.HashUtils.MD5(key);
         return TextUtils.isEmpty(cacheKey) ? String.valueOf(key.hashCode()) : cacheKey;
     }
 

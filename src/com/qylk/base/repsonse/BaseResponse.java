@@ -1,4 +1,4 @@
-package com.qylk.mp.bus.repsonse;
+package com.qylk.base.repsonse;
 
 public abstract class BaseResponse {
     public int resultCode;

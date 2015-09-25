@@ -1,4 +1,4 @@
-package com.qylk.mp.bus.utils;
+package com.qylk.base.utils;
 
 import android.graphics.Bitmap;
 import android.os.Build;

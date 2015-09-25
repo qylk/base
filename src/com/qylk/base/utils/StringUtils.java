@@ -1,4 +1,4 @@
-package com.qylk.mp.bus.utils;
+package com.qylk.base.utils;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;

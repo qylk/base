@@ -15,7 +15,7 @@
  * along with this program. Look for COPYING file in the top folder.
  * If not, see http://www.gnu.org/licenses/.
  */
-package com.qylk.mp.bus.utils;
+package com.qylk.base.utils;
 
 /**
  * Unique IDs generator. Used for attribute 'id' in stanzas.

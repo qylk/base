@@ -1,4 +1,4 @@
-package com.qylk.mp.bus;
+package com.qylk.base;
 
 import android.os.Looper;
 import android.os.Process;
